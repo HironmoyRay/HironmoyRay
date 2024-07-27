@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+:root {
+  --bg-black-dark: #f2f2fc;
+  --bg-black-light: #fdf9ff;
+  --bg-black-lighter: #e8dfec;
+  --text-black-dark: #302e4d;
+  --text-black-light: #504e70;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+/* ===== Section ===== */
+.section {
+  background: var(--bg-black-dark);
+  display: block;
+  min-height: 100vh;
+  position: fixed;
+  left: 270px;
+  top: 0px;
+  right: 0px;
+  z-index: 0;
+  opacity: 1;
+}
+
+/* ===== Aside ===== */
+.aside {
+  width: 270px;
+  height: 100%;
+  background: var(--bg-black-light);
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 10;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aside .logo {
+  position: absolute;
+  top: 50px;
+  font-size: 30px;
+  text-transform: capitalize;
+}
