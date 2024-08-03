@@ -21,6 +21,14 @@
   box-sizing: border-box;
 }
 
+body.dark{
+  --bg-black-dark: #151515;
+  --bg-black-light: #222222;
+  --bg-black-lighter: #393939;
+  --text-black-dark: #ffffff;
+  --text-black-light: #e9e9e9;
+}
+
 body {
   line-height: 1.5;
   font-size: 16px;
@@ -428,11 +436,13 @@ h3.my-profession {
   margin-top: 30px;
   /* background-color: red; */
 }
-.about .about-content h3 .title {
+.about .about-content .title {
   font-size: 24px;
   margin-bottom: 30px;
   font-weight: 700;
   color: var(--text-black-dark);
+  
+
 }
 
 .about .about-content .timeline-box {
