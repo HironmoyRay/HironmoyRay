@@ -21,7 +21,7 @@
   box-sizing: border-box;
 }
 
-body.dark{
+body.dark {
   --bg-black-dark: #151515;
   --bg-black-light: #222222;
   --bg-black-lighter: #393939;
@@ -441,8 +441,6 @@ h3.my-profession {
   margin-bottom: 30px;
   font-weight: 700;
   color: var(--text-black-dark);
-  
-
 }
 
 .about .about-content .timeline-box {
@@ -509,6 +507,18 @@ h3.my-profession {
   font-size: 16px;
   text-align: justify;
   color: var(--text-black-light);
+}
+
+.about .about-content .timeline .timeline-flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0px;
+}
+
+.exp-margin{
+  margin-left: 40px;
+  list-style:circle
 }
 
 /* ====== About End ====== */
@@ -600,6 +610,29 @@ h3.my-profession {
   width: 100%;
   display: block;
 }
+.portfolio .portfolio-link {
+  flex: 0 0 50%;
+  max-width: 50%;
+  text-align: center;
+  background-color: var(--bg-black-dark);
+  padding: 4px;
+}
+.portfolio .portfolio-link a {
+  font-size: 20px;
+  display: block;
+  color: var(--skin-color);
+  width: 100px;
+  border-radius: 10px;
+  border: 1px solid var(--bg-black-lighter);
+  margin: auto;
+  background: var(--bg-black-light);
+  transition: all 0.3s ease;
+}
+
+.portfolio .portfolio-link a:hover {
+  
+  transform: scale(1.10);
+}
 /* ====== Portfolio Item End ====== */
 
 /* ====== Contact Item Start ====== */
@@ -681,6 +714,8 @@ h3.my-profession {
 }
 /* ====== Contact Item End ====== */
 
+
+
 /* Responsive  */
 @media (max-width: 1199px) {
   .aside {
@@ -689,7 +724,6 @@ h3.my-profession {
   .main-content {
     padding-left: 0px;
   }
-  
 
   .about .about-content .personal-info .info-item p span {
     display: block;
@@ -701,7 +735,7 @@ h3.my-profession {
   .home .home-img {
     display: none;
   }
- 
+
   .home .home-info {
     flex: 0 0 100%;
     max-width: 100%;
@@ -712,7 +746,6 @@ h3.my-profession {
     flex: 0 0 50%;
     max-width: 50%;
   }
-
 }
 
 @media (max-width: 767px) {
