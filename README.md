@@ -1,20 +1,19 @@
+![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQEHWfK5kWMkQw/profile-displaybackgroundimage-shrink_350_1400/0/1723476781484?e=1729123200&v=beta&t=D6Pec5PkWlvwOJJSF3PQRQ7Mcug3Z0focixofwjGsGw)
+
 ### Hi there 👋, I'm Hironmoy Ray
-#### Frontend Web Developer 
-![Frontend Web Developer ](https://www.linkedin.com/in/hironmoy-ray-148a152aa)
+#### Frontend Web Developer
 
 I am an aspiring web developer with a strong focus on frontend technologies, particularly React.js. 
 
 My journey in web development began by establishing a solid foundation in HTML, CSS, and JavaScript, through which I successfully completed multiple projects, refining my skills along the way.
 
-During my part-time role at a freelance company near my university, I gained practical experience working with React.js.
-
- I contributed to various projects, developing user interfaces (UI) with Tailwind CSS and working on form UI components to create seamless user experiences.
-
-I have a keen interest in problem-solving with C++, and I’ve delved into Data Structures and Algorithms to strengthen my programming foundation. 
+I have a keen interest in problem-solving with C++, and I’ve delved into Data Structures and Algorithms to strengthen my programming foundation.
 
 While my primary expertise is in frontend development, I also have a working knowledge of backend technologies, particularly within the MERN stack.
 
-Skills: REACT JS / JavaScript / HTML / CSS
+Skills: REACT JS/ JavaScript / HTML / CSS
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HironmoyRay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/HironmoyRay/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hironmoy-ray.netlify.app/)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HironmoyRay)  
 
