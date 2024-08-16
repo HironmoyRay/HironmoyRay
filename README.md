@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hironmoy Ray
 #### Frontend Web Developer 
-![Frontend Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend Web Developer ](https://www.linkedin.com/in/hironmoy-ray-148a152aa)
 
 I am an aspiring web developer with a strong focus on frontend technologies, particularly React.js. 
 
@@ -15,14 +15,6 @@ I have a keen interest in problem-solving with C++, and I’ve delved into Data 
 While my primary expertise is in frontend development, I also have a working knowledge of backend technologies, particularly within the MERN stack.
 
 Skills: REACT JS / JavaScript / HTML / CSS
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HironmoyRay)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HironmoyRay)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HironmoyRay&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HironmoyRay)  
 
