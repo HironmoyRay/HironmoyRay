@@ -19,6 +19,7 @@
   outline: none;
   text-decoration: none;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body.dark {
