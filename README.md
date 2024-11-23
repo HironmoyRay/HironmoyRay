@@ -1,4 +1,4 @@
-![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQEHWfK5kWMkQw/profile-displaybackgroundimage-shrink_350_1400/0/1723476781484?e=1729123200&v=beta&t=D6Pec5PkWlvwOJJSF3PQRQ7Mcug3Z0focixofwjGsGw)
+![](https://media.licdn.com/dms/image/v2/D5616AQEHWfK5kWMkQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723476781484?e=1737590400&v=beta&t=Gra4TcXlE73-XBlMI3MMIVwduZCW2yijGugvv7lEX0A)  
 
 ### Hi there 👋, I'm Hironmoy Ray
 #### Frontend Web Developer
